@@ -59,3 +59,39 @@ h1 {
     list-style-type: none;
     display: inline;
   }
+
+  header {
+    position: relative;
+  }
+
+  #home-button {
+    background-color: blueviolet;
+    font-size: 20px;
+    position: fixed;
+    z-index: 10;
+    margin: 1% 0% 0% 70%;
+  }
+
+  #a {
+    font-size: 5rem;
+  }
+
+  #b {
+    font-size: 5em;
+  }
+
+  #c {
+    font-size: 5vh;
+  }
+
+  #d {
+    font-size: 5vw;
+  }
+
+  #e {
+    font-size: 5px;
+  }
+
+  #f {
+    font-size: 5%;
+  }
